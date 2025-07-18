@@ -26,7 +26,7 @@ Analyze how users interact with products (views, carts, purchases) and identify 
 - Power BI: visuals, filters, formatting, layout
   DAX: calculated columns for time and aggregation
 - GitHub: documentation and versioning
-- 
+   
 # Files Included
 
 - `ecommerce_dashboard.pbix` – Power BI project file  

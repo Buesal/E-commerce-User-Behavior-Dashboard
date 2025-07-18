@@ -30,7 +30,8 @@ Analyze how users interact with products (views, carts, purchases) and identify 
 # Files Included
 
 - `ecommerce_dashboard.pbix` – Power BI project file  
-- `README.md` – this file  
+- `README.md` – this file 
+- `Screenshot of the Dashbords.png` 
 
 # Next Steps
 
